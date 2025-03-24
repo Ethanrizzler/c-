@@ -185,7 +185,7 @@ int main() {
         Security();
     }
     else {
-        std::cout << "Exiting...\n";
+        std::cout << "rat...\n";
     }
 
     return 0;
